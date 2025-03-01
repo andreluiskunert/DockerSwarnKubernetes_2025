@@ -1,0 +1,40 @@
+marquee {
+      font: optional;
+      font-family: monospace;
+      font-size: 50px;
+      background-color: aliceblue;
+}
+.imagem {
+    #container-da-imagem {
+        width: 300px;
+        position: relative;
+    }
+    #container-da-imagem img {
+        width: 100%
+    }
+    img {
+        width: 100%
+    }
+}
+.cabeca{
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 50px;
+     background-color: aqua;
+   
+    
+
+}
+
+.corpo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    background-color: #ffff;
+   
+}
+.rodape {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.9rem;
+    background-color: aqua;
+    text-align: center;
+  
+}
